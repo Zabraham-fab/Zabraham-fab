@@ -7,20 +7,24 @@
 ## AWS Cloud Architect & DevOps Engineer!!
 
 [Clarusway][clarus] .... 
--🚀504 Hours live sessions, workshops, assignments, projects...💥
+-🚀600 Hours live sessions, workshops, assignments, projects...💥
 -🔥I have been learning alot. Kubernetes, Docker, Jenkins, Python, Linux, SQL, Git, Agile, Scrum, Canban , Jira..💥
 
 - 👀 I’m interested in DevOps and AWS Cloud
 - 🌱 I’m currently learning Kubernetes and Docker
 - 💞️ I’m looking to collaborate on DevOps projects
 
+
+
+:zap: GitHub Stats
+
+  <img align="left" alt="Zabraham's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zabraham-fab&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+
 </details>
 
 
 [linkedin]: https://www.linkedin.com/in/zfatihbingol
-[fiver]: https://www.fiverr.com/muratnalcaci?source=gig_page
-[portfolio]: https://muckrack.com/murat-nalcaci
-[profile]: https://koinmedya.com/author/teomanaltan/
 [clarus]: https://clarusway.com/
 
 
