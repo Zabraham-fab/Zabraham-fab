@@ -10,15 +10,13 @@
 
 <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/aws-ec2-01-846x1024.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/AWS_Simple_Icons_Database_AmazonRDS.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Clickittech-AWS-Cloudfront.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Clickittech-Amazon-Elastic-Beanstalk.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Clickittech-Amazon-Lambda.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Clickittech-Amazon-S3.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Clickittech-Amazon-SNS.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Compute-Amazon-EC2-AutoScaling.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/TicketBooth-aws-auto-scaling_AmazonElasticCache.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/TicketBooth-aws-auto-scaling_AmazonVPC.png">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
 
 
 [Clarusway][clarus] .... 
 -🚀600 Hours live sessions, workshops, assignments, projects...💥
 -🔥I have been learning alot. Kubernetes, Docker, Jenkins, Python, Linux, SQL, Git, Agile, Scrum, Canban , Jira..💥
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 - 👀 I’m interested in DevOps and AWS Cloud
 - 🌱 I’m currently learning Kubernetes and Docker
