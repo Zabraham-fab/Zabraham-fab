@@ -6,7 +6,10 @@
 ## Now I am a trainee with IT to become...
 ## AWS Cloud Architect & DevOps Engineer!!
 
-<img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/AWS_Simple_Icons_Database_AmazonRDS.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Clickittech-AWS-Cloudfront.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Clickittech-Amazon-Elastic-Beanstalk.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Clickittech-Amazon-Lambda.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Clickittech-Amazon-S3.png">
+<img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/aws-ec2-01-846x1024.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/AWS_Simple_Icons_Database_AmazonRDS.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Clickittech-AWS-Cloudfront.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Clickittech-Amazon-Elastic-Beanstalk.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Clickittech-Amazon-Lambda.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Clickittech-Amazon-S3.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Clickittech-Amazon-SNS.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Compute-Amazon-EC2-AutoScaling.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/TicketBooth-aws-auto-scaling_AmazonElasticCache.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/TicketBooth-aws-auto-scaling_AmazonVPC.png">
+
+
+
 
 
 [Clarusway][clarus] .... 
