@@ -17,7 +17,7 @@
 ### Connect with me:
 
 - 💬 Check out Linkedin: [Z.Fatih Bingol-Zabraham][linkedin]!
-- 📫 My Gmail account: [mfatih1000gol@gmail.com]
+- 📫 My Gmail account: mfatih1000gol@gmail.com
 
 :zap: GitHub Stats
 
