@@ -1,4 +1,4 @@
-# 👋 Hi there I’m Z Fatih B [Zabraham] [www.linkedin.com/in/zfatihbingol]👋
+# 👋 Hi there I’m Z Fatih B [Zabraham] [www.linkedin.com/in/z-fatih-b-78b5a7229]👋
 
 # Welcome to my page!
 
