@@ -6,7 +6,7 @@
 ## Now I am a trainee with IT to become...
 ## AWS Cloud Architect & DevOps Engineer!!
 
-<img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/AWS_Simple_Icons_Database_AmazonRDS.png">|<img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Clickittech-AWS-Cloudfront.png">|<img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Clickittech-Amazon-Elastic-Beanstalk.png">
+<img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/AWS_Simple_Icons_Database_AmazonRDS.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Clickittech-AWS-Cloudfront.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Clickittech-Amazon-Elastic-Beanstalk.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Clickittech-Amazon-Lambda.png"> - <img style="width: 50px;" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/Clickittech-Amazon-S3.png">
 
 
 [Clarusway][clarus] .... 
