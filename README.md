@@ -14,7 +14,10 @@
 - 🌱 I’m currently learning Kubernetes and Docker
 - 💞️ I’m looking to collaborate on DevOps projects
 
+### Connect with me:
 
+- 💬 Check out Linkedin: [Z.Fatih Bingol-Zabraham][linkedin]!
+- 📫 My Gmail account: [mfatih1000gol@gmail.com]
 
 :zap: GitHub Stats
 
@@ -26,7 +29,7 @@
 
 [linkedin]: https://www.linkedin.com/in/zfatihbingol
 [clarus]: https://clarusway.com/
-
+[mfatih1000gol@gmail.com]: https://mail.google.com/mail/u/0
 
 
 
