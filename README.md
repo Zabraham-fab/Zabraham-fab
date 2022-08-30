@@ -2,7 +2,7 @@
 
 # Welcome to my page!
 
-## I have been working as a Mechanical Engineer.
+## I also work as a Mechanical Engineer.
 ## Now I am a trainee with IT to become...
 ## AWS Cloud Architect & DevOps Engineer!!
 
