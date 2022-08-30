@@ -1,4 +1,4 @@
-# 👋 Hi there I’m Z Fatih B [Zabraham] [www.linkedin.com/in/z-fatih-b-78b5a7229]👋
+# 👋 Hi there I’m Z Fatih B [Zabraham] [Linkedin]👋
 
 # Welcome to my page!
 
@@ -13,6 +13,19 @@
 - 👀 I’m interested in DevOps and AWS Cloud
 - 🌱 I’m currently learning Kubernetes and Docker
 - 💞️ I’m looking to collaborate on DevOps projects
+
+</details>
+
+
+[linkedin]: www.linkedin.com/in/zfatihbingol
+[fiver]: https://www.fiverr.com/muratnalcaci?source=gig_page
+[portfolio]: https://muckrack.com/murat-nalcaci
+[profile]: https://koinmedya.com/author/teomanaltan/
+[clarus]: https://clarusway.com/
+
+
+
+
 
 <!--
 **Zabraham-fab/Zabraham-fab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
