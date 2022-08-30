@@ -17,7 +17,7 @@
 </details>
 
 
-[linkedin]: www.linkedin.com/in/zfatihbingol
+[linkedin]: https://www.linkedin.com/in/zfatihbingol
 [fiver]: https://www.fiverr.com/muratnalcaci?source=gig_page
 [portfolio]: https://muckrack.com/murat-nalcaci
 [profile]: https://koinmedya.com/author/teomanaltan/
