@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/213904.png">
+<img align="center-left" src="https://github.com/Zabraham-fab/Zabraham-fab/blob/main/213904.png">
 
 # 👋 Hi there I’m Z Fatih B [Zabraham] [Linkedin]👋
 
