@@ -15,8 +15,17 @@
 
 
 [Clarusway][clarus] .... 
--🚀600 Hours live sessions, workshops, assignments, projects...💥
--🔥I have been learning alot. Kubernetes, Docker, Jenkins, Python, Linux, SQL, Git, Agile, Scrum, Canban , Jira..💥
+-🚀I'm delighted to share my experiences with the Cloud/DevOps bootcamp! Throughout an extended period, I went through live sessions, workshops, assignments, and projects, leading to a significant learning journey. I gained knowledge in various areas such as Kubernetes, Docker, Jenkins, Python, Linux, SQL, Git, Agile, Scrum, Kanban, and Jira.
+
+During this intensive program, I got acquainted with numerous fundamental tools and technologies. I specialized in building and managing scalable cloud environments by unraveling the complexities of Kubernetes and Docker. I learned how to leverage Jenkins' power in continuous integration and deployment processes.
+
+The bootcamp also provided a solid foundation in programming with Python. This allowed me to automate processes and develop efficient solutions. Additionally, I acquired competence in Linux administration, enabling me to navigate and optimize different operating systems with ease.💥
+
+-🔥In the realm of databases, I developed the ability to extract valuable insights from large amounts of data by exploring the intricacies of SQL. Moreover, by effectively utilizing Git for version control, I became proficient in seamless collaboration and workflow within development teams.
+
+But that's not all! The bootcamp emphasized the importance of agile methodologies like Scrum and Kanban in project management. Through practical experience and hands-on exercises, I learned to understand these frameworks and effectively utilize tools like Jira for project planning, tracking, and successful completion.
+
+In summary, this Cloud/DevOps bootcamp has been an exciting journey filled with comprehensive learning experiences. Equipped with skills in Kubernetes, Docker, Jenkins, Python, Linux, SQL, Git, Agile, Scrum, Kanban, and Jira, I am ready to tackle industry challenges and contribute to the success of any organization.💥
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -26,8 +35,8 @@
 
 ### Connect with me:
 
-- 💬 Check out Linkedin: [Z.Fatih Bingol-Zabraham][linkedin]!
-- 📫 My Gmail account: mfatih1000gol@gmail.com
+- 💬 Check out Linkedin: [linkedin]!
+- 📫 My Gmail account: mf1000gol@gmail.com
 
 
 :zap: GitHub Stats
